@@ -87,31 +87,21 @@ Building AI agents and scaling data consulting services
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ishaands12&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=FFFFFF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishaands12&show_icons=true&hide_border=true&title_color=3B88C3&icon_color=3B88C3" />
-</picture>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishaands12&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishaands12&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaands12&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B88C3&text_color=FFFFFF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaands12&layout=compact&hide_border=true&title_color=3B88C3" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ishaands12&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B88C3&ring=3B88C3&fire=FF6B6B&currStreakLabel=3B88C3)
-
-</div>
-
-<br>
-
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishaands12&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishaands12&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaands12&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=ishaands12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
