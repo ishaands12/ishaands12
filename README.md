@@ -87,21 +87,9 @@ Building AI agents and scaling data consulting services
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishaands12&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishaands12&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=ishaands12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=FFFFFF" alt="GitHub Stats" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishaands12&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishaands12&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaands12&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=ishaands12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaands12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 
 </div>
 
