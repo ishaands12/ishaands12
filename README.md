@@ -19,7 +19,7 @@
 <td width="50%">
 
 ### 🎓 Education
-- **Masters' Union** - UGDSAI 2029
+- **Masters' Union** - GPA - 3.29
 - **BITS Pilani** - CGPA 8.56/10
 
 ### 🚀 Professional
