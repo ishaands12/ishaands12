@@ -83,6 +83,26 @@ Building AI agents and scaling data consulting services
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ishaands12&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B88C3&ring=3B88C3&fire=FF6B6B&currStreakLabel=3B88C3)](https://github.com/ishaands12)
+
+</div>
+
+<div align="center">
+
+| 📂 **Repositories** | 🔤 **Languages** | 💻 **Activity** |
+|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/5-repositories-3B88C3?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python) | ![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) |
+
+**Featured Languages:** Python • TypeScript • JavaScript • Shell
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 💼 BIz Data Consulting
