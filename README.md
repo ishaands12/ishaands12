@@ -14,36 +14,41 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Data Science & AI Undergrad** | Masters' Union UGDSAI 2029
-🏫 **BITS Pilani** (8.56 CGPA)
-🚀 **Founder** @ [BIz Data Consulting](https://ishaands.vercel.app/)
-📊 **Track Record**: 10+ clients served with **7-10% business performance improvements**
+<table>
+<tr>
+<td width="50%">
 
-> *Turning data into actionable insights and building AI-powered solutions for real-world problems*
+### 🎓 Education
+- **Masters' Union** - UGDSAI 2029
+- **BITS Pilani** - CGPA 8.56/10
 
-```python
-class IshaanBansal:
-    def __init__(self):
-        self.role = "Data Scientist & AI Engineer"
-        self.education = {
-            "current": "Masters' Union UGDSAI 2029",
-            "previous": "BITS Pilani (CGPA: 8.56)"
-        }
-        self.company = "BIz Data Consulting (Founder)"
-        self.impact = "10+ clients | 7-10% performance boost"
+### 🚀 Professional
+- **Founder** @ BIz Data Consulting
+- **10+ Clients Served**
+- **7-10% Performance Improvements**
 
-    def expertise(self):
-        return [
-            "Machine Learning & AI",
-            "Business Intelligence",
-            "Data Analytics",
-            "Predictive Modeling",
-            "BI Dashboards (Power BI, Tableau)"
-        ]
+</td>
+<td width="50%">
 
-    def current_focus(self):
-        return "Building AI agents and scaling data consulting services"
-```
+### 💼 Expertise
+- Machine Learning & AI
+- Business Intelligence
+- Data Analytics & Visualization
+- Predictive Modeling
+- BI Dashboards (Power BI, Tableau)
+
+### 🎯 Focus
+Building AI agents and scaling data consulting services
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> ### *"Turning data into actionable insights and building AI-powered solutions for real-world problems"*
+
+</div>
 
 ---
 
