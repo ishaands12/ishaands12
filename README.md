@@ -1,157 +1,206 @@
-<div align="center">
-
-# 🧠 Hi, I'm Ishaan
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+AI+Undergrad+%F0%9F%93%8A;Building+AI+Agents+%26+Data+Apps+%F0%9F%A4%96;Python+%7C+SQL+%7C+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=900&lines=Hi%2C+I'm+Ishaan+Bansal+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer+%F0%9F%A4%96;Founder+%40+BIz+Data+Consulting+%F0%9F%9A%80;10%2B+Clients+Served+%7C+7-10%25+Performance+Boost+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ishaands.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bansalishaan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaan.ds12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ishaands.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bansalishaan/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaan.ds12@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=3B88C3&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=3B88C3&style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
+
+🎓 **Data Science & AI Undergrad** | Masters' Union UGDSAI 2029
+🏫 **BITS Pilani** (8.56 CGPA)
+🚀 **Founder** @ [BIz Data Consulting](https://ishaands.vercel.app/)
+📊 **Track Record**: 10+ clients served with **7-10% business performance improvements**
+
+> *Turning data into actionable insights and building AI-powered solutions for real-world problems*
 
 ```python
-class DataScienceStudent:
+class IshaanBansal:
     def __init__(self):
-        self.name = "Ishaan"
-        self.role = "Data Science & AI Undergrad"
-        self.location = "Delhi, India"
-        self.passions = [
-            "Building AI agents",
-            "Data apps & visualization",
-            "Machine Learning",
-            "Predictive modeling"
+        self.role = "Data Scientist & AI Engineer"
+        self.education = {
+            "current": "Masters' Union UGDSAI 2029",
+            "previous": "BITS Pilani (CGPA: 8.56)"
+        }
+        self.company = "BIz Data Consulting (Founder)"
+        self.impact = "10+ clients | 7-10% performance boost"
+
+    def expertise(self):
+        return [
+            "Machine Learning & AI",
+            "Business Intelligence",
+            "Data Analytics",
+            "Predictive Modeling",
+            "BI Dashboards (Power BI, Tableau)"
         ]
-        self.tech_stack = ["Python", "SQL", "ML", "TypeScript"]
 
     def current_focus(self):
-        return "Building practical ML applications and exploring AI agents"
-
-me = DataScienceStudent()
-print(me.current_focus())
+        return "Building AI agents and scaling data consulting services"
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
+
+### Languages & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Data Science & ML
+### Data Science & ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🧰 Tools & Platforms
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishaands12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaands12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishaands12&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B88C3&ring=3B88C3&fire=FF6B6B&currStreakLabel=3B88C3)](https://git.io/streak-stats)
-
 </div>
 
 ---
 
-## 🔥 Projects
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Ishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishaands12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=FFFFFF&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaands12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ishaands12&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B88C3&ring=3B88C3&fire=FF6B6B&currStreakLabel=3B88C3)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 BIz Data Consulting
+**Founder & Lead Data Scientist**
+- Delivered data solutions to 10+ clients across various industries
+- Achieved 7-10% business performance improvements through data-driven insights
+- Specialized in BI dashboards, predictive analytics, and ML implementations
+
+**Impact**: Helping businesses make better decisions through data
+
+---
 
 ### ⚽ Football Prediction Model
-Machine learning model for predicting football match outcomes using historical data and statistical analysis.
+ML model for predicting football match outcomes using historical data and statistical analysis.
 
-**Tech:** Python, scikit-learn, Pandas
-- [View Repository](https://github.com/ishaands12/Football-Prediction-Model)
+**Tech Stack**: Python, scikit-learn, Pandas, Machine Learning
+**Key Features**:
+- Historical data analysis
+- Statistical modeling
+- Match outcome predictions
+
+🔗 [View Repository](https://github.com/ishaands12/Football-Prediction-Model)
+
+---
 
 ### 🏥 Disease Detection Project
 ML-powered disease detection system analyzing medical data to assist in early diagnosis.
 
-**Tech:** Python, Machine Learning, Data Analysis
-- [View Repository](https://github.com/ishaands12/Disease-Detection-Project)
+**Tech Stack**: Python, Machine Learning, Data Analysis
+**Key Features**:
+- Medical data analysis
+- Predictive modeling
+- Early detection algorithms
+
+🔗 [View Repository](https://github.com/ishaands12/Disease-Detection-Project)
+
+---
 
 ### 🎮 Match Maker Path
 Interactive path-finding application built with TypeScript.
 
-**Tech:** TypeScript, Algorithms
-- [View Repository](https://github.com/ishaands12/match-maker-path)
+**Tech Stack**: TypeScript, Algorithms
+**Key Features**:
+- Algorithm visualization
+- Interactive UI
+- Path optimization
+
+🔗 [View Repository](https://github.com/ishaands12/match-maker-path)
 
 ---
 
-## 📊 Skills & Learning Journey
+## 🎯 What I Do
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Machine Learning** | Regression, Classification, Model Evaluation, Feature Engineering |
-| **Data Analysis** | EDA, Statistical Analysis, Data Cleaning, Visualization |
-| **Tools** | Jupyter Notebooks, Pandas, NumPy, Matplotlib, scikit-learn |
-| **Databases** | SQL |
-| **Web Dev** | TypeScript, JavaScript |
+| Area | Skills & Deliverables |
+|------|----------------------|
+| **Machine Learning** | Classification, Regression, Predictive Modeling, Model Deployment |
+| **Business Intelligence** | Power BI Dashboards, Tableau Visualizations, KPI Tracking |
+| **Data Analytics** | EDA, Statistical Analysis, A/B Testing, Performance Metrics |
+| **Consulting** | Business Strategy, Data-Driven Decision Making, ROI Optimization |
+| **Tools & Tech** | Python, SQL, Jupyter, scikit-learn, Power BI, Tableau |
 
 </div>
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Current Focus
 
-- 🤖 Building AI agents and intelligent applications
-- 📊 Creating interactive data visualization apps
-- ⚽ Improving football prediction models with advanced ML techniques
-- 🏥 Exploring healthcare applications of machine learning
-- 📈 Learning advanced data analysis and modeling techniques
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-Open to collaborations, learning opportunities, and discussions about data science and AI!
-
-📫 **Reach out to me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/bansalishaan/)
-- 📧 ishaan.ds12@gmail.com
-- 🌐 [Portfolio](https://ishaands.vercel.app/)
-
-</div>
+- 🤖 **Building AI Agents** - Developing intelligent automation solutions
+- 📈 **Scaling BIz Data Consulting** - Growing client base and service offerings
+- 🎓 **Academic Excellence** - Pursuing UGDSAI at Masters' Union (2029)
+- 📊 **Advanced Analytics** - Implementing cutting-edge ML techniques for clients
+- 💡 **Innovation** - Exploring new ways to deliver business value through data
 
 ---
 
+## 🏆 Achievements & Impact
+
+- ✅ **10+ Successful Client Deliveries**
+- 📈 **7-10% Average Performance Improvement**
+- 🎓 **8.56 CGPA** at BITS Pilani
+- 🚀 **Founded** BIz Data Consulting
+- 💼 **Real-world ML** implementations
+
+---
+
+## 📫 Let's Connect!
+
 <div align="center">
 
-### 🎯 "Turning data into insights, one project at a time"
+**Open to collaborations, consulting opportunities, and interesting data challenges!**
 
-![Snake animation](https://raw.githubusercontent.com/ishaands12/ishaands12/output/github-contribution-grid-snake-dark.svg)
+<br>
 
-**Thanks for visiting! 🚀**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-3B88C3?style=for-the-badge)](https://ishaands.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/bansalishaan/)
+[![Email](https://img.shields.io/badge/📧_Email-ishaan.ds12@gmail.com-D14836?style=for-the-badge)](mailto:ishaan.ds12@gmail.com)
+
+<br>
+
+---
+
+### 💡 *"Data tells a story, but insights drive action"*
+
+![Snake animation](https://raw.githubusercontent.com/ishaands12/ishaands12/output/snake.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=3B88C3&style=for-the-badge&label=Profile+Views)
+
+**Thanks for visiting! Let's turn data into impact together 🚀**
 
 </div>
