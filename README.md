@@ -105,6 +105,20 @@ Building AI agents and scaling data consulting services
 
 ## 🚀 Featured Projects
 
+### 📖 Lin-Story
+**The Story of Linear Algebra**
+Interactive storytelling experience designed to make Linear Algebra intuitive.
+
+**Tech Stack**: React, Interactive UI, Math Visualization
+**Key Features**:
+- Visualizes abstract concepts
+- Interactive narrative flow
+- Simplifies complex math
+
+🔗 [Visit Project](https://lin-story.vercel.app/)
+
+---
+
 ### 💼 BIz Data Consulting
 **Founder & Lead Data Scientist**
 - Delivered data solutions to 10+ clients across various industries
