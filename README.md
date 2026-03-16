@@ -37,7 +37,7 @@
 - Data Analytics & Visualization
 
 ### 🎯 Focus
-Building high-reliability AI agent systems (3-Layer Architecture) and scaling data strategies for businesses.
+Building reliable AI agent systems (3-Layer Architecture) and scaling data strategies for businesses.
 
 </td>
 </tr>
@@ -83,25 +83,15 @@ Building high-reliability AI agent systems (3-Layer Architecture) and scaling da
 
 </div>
 
-<div align="center">
-
-| 📂 **Repositories** | 🔤 **Languages** | 💻 **Activity** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/github/directory-stats-count/ishaands12/ishaands12?style=for-the-badge&color=3B88C3&label=Repos"> | ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python) | ![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) |
-
-**Featured Languages:** Python • TypeScript • JavaScript • Shell
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🏗️ Three Zinc MVP
-**Competitive Marketing Intelligence Agent**
-An end-to-end MVP that scrapes competitor A+ content, headlines, and reviews to generate actionable 1v1 comparison reports.
-- **Tech Stack**: Python, Dynamic Scraping, NLP, Agentic Orchestration
-- [**View Details**](https://github.com/ishaands12/three-zinc-mvp)
+### 🛠️ Agentic Infrastructure (AGENTS.md)
+**Standardizing AI-Ready Codebases**
+Implementation of the 3-Layer Architecture (Directives → Orchestration → Execution) to build reliable, self-annealing AI agents.
+- **Expertise**: SOP Design, Deterministic Execution, AI Routing.
+- [**View Documentation**](https://github.com/ishaands12/skills-for-coding-)
 
 ---
 
@@ -136,9 +126,9 @@ Advanced ML model for predicting match outcomes using historical data and statis
 
 ## 🌱 Current Focus
 - 🤖 **Agentic Frameworks** - Implementing deterministic execution layers for AI agents.
-- 📈 **Scaling BIz Data Consulting** - Expanding services into the e-commerce marketing intelligence space.
+- 📈 **Scaling BIz Data Consulting** - Expanding AI-driven data automation for global clients.
 - 🎓 **Academic Excellence** - Advanced study in UGDSAI at Masters' Union.
-- 💡 **Open Source** - Contributing to the `AGENTS.md` standard for AI-ready codebases.
+- 💡 **Innovation** - Developing self-annealing toolsets for LLM orchestration.
 
 ---
 
