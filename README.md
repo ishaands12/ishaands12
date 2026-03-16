@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=900&lines=Hi%2C+I'm+Ishaan+Bansal+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer+%F0%9F%A4%96;Founder+%40+BIz+Data+Consulting+%F0%9F%9A%80;10%2B+Clients+Served+%7C+7-10%25+Performance+Boost+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=900&lines=Hi%2C+I'm+Ishaan+Bansal+%F0%9F%91%8B;Data+Scientist+%26+AI+Agent+Engineer+%F0%9F%A4%96;Founder+%40+BIz+Data+Consulting+%F0%9F%9A%80;10%2B+Clients+Served+%7C+7-10%25+Performance+Boost+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -18,8 +18,8 @@
 <td width="50%">
 
 ### 🎓 Education
-- **Masters' Union**
-- **BITS Pilani** - CGPA 8.56/10
+- **Masters' Union** - UGDSAI (2029)
+- **BITS Pilani** - B.E. Graduate (CGPA 8.56/10)
 
 ### 🚀 Professional
 - **Founder** @ BIz Data Consulting
@@ -30,14 +30,14 @@
 <td width="50%">
 
 ### 💼 Expertise
-- Machine Learning & AI
-- Business Intelligence
+- **AI Agents & LLM Orchestration**
+- Machine Learning & Data Science
+- Business Intelligence (Power BI, Tableau)
+- Predictive Modeling & Optimization
 - Data Analytics & Visualization
-- Predictive Modeling
-- BI Dashboards (Power BI, Tableau)
 
 ### 🎯 Focus
-Building AI agents and scaling data consulting services
+Building high-reliability AI agent systems (3-Layer Architecture) and scaling data strategies for businesses.
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ Building AI agents and scaling data consulting services
 
 <div align="center">
 
-> ### *"Turning data into actionable insights and building AI-powered solutions for real-world problems"*
+> ### *"Bridging the gap between raw data and agentic intelligence to drive real-world impact"*
 
 </div>
 
@@ -54,11 +54,11 @@ Building AI agents and scaling data consulting services
 ## 🛠️ Tech Stack
 <div align="center">
 
-### Languages & Core Skills
+### Agents & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Orchestration-6D28D9?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Science & ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -66,16 +66,11 @@ Building AI agents and scaling data consulting services
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Business Intelligence
+### Business Intelligence & Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -92,7 +87,7 @@ Building AI agents and scaling data consulting services
 
 | 📂 **Repositories** | 🔤 **Languages** | 💻 **Activity** |
 |:---:|:---:|:---:|
-| ![Repos](https://img.shields.io/badge/5-repositories-3B88C3?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python) | ![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) |
+| <img src="https://img.shields.io/github/directory-stats-count/ishaands12/ishaands12?style=for-the-badge&color=3B88C3&label=Repos"> | ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python) | ![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) |
 
 **Featured Languages:** Python • TypeScript • JavaScript • Shell
 
@@ -102,89 +97,56 @@ Building AI agents and scaling data consulting services
 
 ## 🚀 Featured Projects
 
+### 🏗️ Three Zinc MVP
+**Competitive Marketing Intelligence Agent**
+An end-to-end MVP that scrapes competitor A+ content, headlines, and reviews to generate actionable 1v1 comparison reports.
+- **Tech Stack**: Python, Dynamic Scraping, NLP, Agentic Orchestration
+- [**View Details**](https://github.com/ishaands12/three-zinc-mvp)
+
+---
+
 ### 📖 Lin-Story
 **The Story of Linear Algebra**
-Interactive storytelling experience designed to make Linear Algebra intuitive.
-
-**Tech Stack**: React, Interactive UI, Math Visualization
-**Key Features**:
-- Visualizes abstract concepts
-- Interactive narrative flow
-- Simplifies complex math
-
-🔗 [Visit Project](https://lin-story.vercel.app/)
+Interactive storytelling experience designed to make Linear Algebra intuitive and visual.
+- **Tech Stack**: React, Interactive UI, Math Visualization
+- 🔗 [**Visit Project**](https://lin-story.vercel.app/)
 
 ---
 
 ### ⚽ Football Prediction Model
-ML model for predicting football match outcomes using historical data and statistical analysis.
-
-**Tech Stack**: Python, scikit-learn, Pandas, Machine Learning
-**Key Features**:
-- Historical data analysis
-- Statistical modeling
-- Match outcome predictions
-
-🔗 [View Repository](https://github.com/ishaands12/Football-Prediction-Model)
+Advanced ML model for predicting match outcomes using historical data and statistical analysis.
+- **Tech Stack**: Python, scikit-learn, Pandas, Machine Learning
+- 🔗 [**View Repository**](https://github.com/ishaands12/Football-Prediction-Model)
 
 ---
 
-### 🏥 Disease Detection Project
-ML-powered disease detection system analyzing medical data to assist in early diagnosis.
-
-**Tech Stack**: Python, Machine Learning, Data Analysis
-**Key Features**:
-- Medical data analysis
-- Predictive modeling
-- Early detection algorithms
-
-🔗 [View Repository](https://github.com/ishaands12/Disease-Detection-Project)
-
----
-
-### 🎮 Match Maker Path
-Interactive path-finding application built with TypeScript.
-
-**Tech Stack**: TypeScript, Algorithms
-**Key Features**:
-- Algorithm visualization
-- Interactive UI
-- Path optimization
-
-🔗 [View Repository](https://github.com/ishaands12/match-maker-path)
-
----
-
-## 🎯 What I Do
+### 🎯 What I Do
 <div align="center">
 
 | Area | Skills & Deliverables |
 | ------ | ---------------------- |
-| **Machine Learning** | Classification, Regression, Predictive Modeling, Model Deployment |
+| **Agentic AI** | 3-Layer Architectures, LLM Integration, Autonomous Workflows |
 | **Business Intelligence** | Power BI Dashboards, Tableau Visualizations, KPI Tracking |
-| **Data Analytics** | EDA, Statistical Analysis, A/B Testing, Performance Metrics |
-| **Consulting** | Business Strategy, Data-Driven Decision Making, ROI Optimization |
-| **Tools & Tech** | Python, SQL, Jupyter, scikit-learn, Power BI, Tableau |
+| **Data Analytics** | EDA, Statistical Analysis, A/B Testing, Strategy Consulting |
+| **Machine Learning** | Model Deployment, Predictive Analytics, ROI Optimization |
 
 </div>
 
 ---
 
 ## 🌱 Current Focus
-- 🤖 **Building AI Agents** - Developing intelligent automation solutions
-- 📈 **Scaling BIz Data Consulting** - Growing client base and service offerings
-- 🎓 **Academic Excellence** - Pursuing UGDSAI at Masters' Union (2029)
-- 📊 **Advanced Analytics** - Implementing cutting-edge ML techniques for clients
-- 💡 **Innovation** - Exploring new ways to deliver business value through data
+- 🤖 **Agentic Frameworks** - Implementing deterministic execution layers for AI agents.
+- 📈 **Scaling BIz Data Consulting** - Expanding services into the e-commerce marketing intelligence space.
+- 🎓 **Academic Excellence** - Advanced study in UGDSAI at Masters' Union.
+- 💡 **Open Source** - Contributing to the `AGENTS.md` standard for AI-ready codebases.
 
 ---
 
 ## 🏆 Achievements & Impact
 - ✅ **10+ Successful Client Deliveries**
-- 📈 **7-10% Average Performance Improvement**
-- 🎓 **8.56 CGPA** at BITS Pilani
-- 🚀 **Founded** BIz Data Consulting
-- 💼 **Real-world ML** implementations
+- 📈 **7-10% Average Performance Improvement** for business partners.
+- 🎓 **8.56 CGPA** at BITS Pilani.
+- 🚀 **Founded** BIz Data Consulting.
 
 ---
 
@@ -207,6 +169,6 @@ Interactive path-finding application built with TypeScript.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=3B88C3&style=for-the-badge&label=Profile+Views)
 
-**Thanks for visiting! Let's turn data into impact together 🚀**
+**Thanks for visiting! Let's build the future of intelligence together 🚀**
 
 </div>
