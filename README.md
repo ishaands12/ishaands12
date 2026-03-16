@@ -1,88 +1,212 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=2E7CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ishaan+Bansal+%F0%9F%91%8B;AI+Agent+Architect+%26+Data+Strategist;Founder+%40+BIz+Data+Consulting;Building+3-Layer+Agent+Systems+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=900&lines=Hi%2C+I'm+Ishaan+Bansal+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer+%F0%9F%A4%96;Founder+%40+BIz+Data+Consulting+%F0%9F%9A%80;10%2B+Clients+Served+%7C+7-10%25+Performance+Boost+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2E7CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://ishaands.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ishaands.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bansalishaan/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaan.ds12@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=2E7CF6&style=flat-square&label=EYES+ON+AGENT)
+![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=3B88C3&style=flat-square)
 
 </div>
 
 ---
 
-## 🤖 The Mission: Scaling Intelligence
-> *"Data creates the map, but AI Agents navigate the terrain."*
+## 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%">
 
-I specialize in bridging the gap between probabilistic LLMs and deterministic business logic. By implementing **3-Layer Agentic Architectures**, I build systems that don't just "chat"—they execute, self-anneal, and deliver measurable ROI.
+### 🎓 Education
+- **Masters' Union**
+- **BITS Pilani** - CGPA 8.56/10
 
----
+### 🚀 Professional
+- **Founder** @ BIz Data Consulting
+- **10+ Clients Served**
+- **7-10% Performance Improvements**
 
-## 🛠️ The Agentic Stack (3-Layer Architecture)
-I architect my projects using a separation of concerns that ensures 99% reliability:
+</td>
+<td width="50%">
 
-| Layer | Component | Function |
-| :--- | :--- | :--- |
-| **01 | Directive** | Natural language SOPs that define goals and edge cases. |
-| **02 | Orchestration** | Intelligent routing and decision-making (The Brain). |
-| **03 | Execution** | Deterministic Python/TS tools for API calls and data processing. |
+### 💼 Expertise
+- Machine Learning & AI
+- Business Intelligence
+- Data Analytics & Visualization
+- Predictive Modeling
+- BI Dashboards (Power BI, Tableau)
 
----
+### 🎯 Focus
+Building AI agents and scaling data consulting services
 
-## 🚀 Featured Ventures & Projects
-
-### 🏗️ **Three Zinc MVP**
-**Competitive Intelligence Ecosystem**
-A high-performance scraping and analysis agent that mines A+ content, headlines, and reviews to generate 1v1 competitor intelligence reports.
-- **Tech**: Agentic Scraping, NLP, Competitive Analysis
-
-### 💼 **BIz Data Consulting**
-**Founder & Lead Strategist**
-Delivering data-driven transformations for 10+ clients.
-- **Impact**: 7-10% average business performance improvement.
-- **Expertise**: BI Dashboards (Power BI/Tableau) & Predictive ML.
-
-### 📖 **Lin-Story**
-**Interactive Linear Algebra**
-Making abstract math intuitive through storytelling and visualization.
-- **Tech**: React, Math Visualization
-- [**Visit Site**](https://lin-story.vercel.app/)
-
----
-
-## 🛠️ Performance Tech Stack
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| AI & Agents | Data Science | Engineering |
-| :--- | :--- | :--- |
-| ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6D28D9?style=flat-square) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) |
-| ![Auto-GPT](https://img.shields.io/badge/Agent_Orchestration-000000?style=flat-square) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode) |
+> ### *"Turning data into actionable insights and building AI-powered solutions for real-world problems"*
 
 </div>
 
 ---
 
-## 🎓 Background & Stats
-- **Masters' Union**: Pursuing UGDSAI (Class of 2029)
-- **BITS Pilani**: B.E. Graduate (CGPA 8.56/10)
-- **Status**: Currently building the future of agentic infrastructure.
+## 🛠️ Tech Stack
+<div align="center">
+
+### Languages & Core Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Data Science & ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ishaands12&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B88C3&ring=3B88C3&fire=FF6B6B&currStreakLabel=3B88C3)](https://github.com/ishaands12)
+
+</div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ishaands12&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E7CF6&ring=2E7CF6&fire=FF6B6B)](https://github.com/ishaands12)
+| 📂 **Repositories** | 🔤 **Languages** | 💻 **Activity** |
+|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/5-repositories-3B88C3?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python) | ![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) |
+
+**Featured Languages:** Python • TypeScript • JavaScript • Shell
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📖 Lin-Story
+**The Story of Linear Algebra**
+Interactive storytelling experience designed to make Linear Algebra intuitive.
+
+**Tech Stack**: React, Interactive UI, Math Visualization
+**Key Features**:
+- Visualizes abstract concepts
+- Interactive narrative flow
+- Simplifies complex math
+
+🔗 [Visit Project](https://lin-story.vercel.app/)
+
+---
+
+### ⚽ Football Prediction Model
+ML model for predicting football match outcomes using historical data and statistical analysis.
+
+**Tech Stack**: Python, scikit-learn, Pandas, Machine Learning
+**Key Features**:
+- Historical data analysis
+- Statistical modeling
+- Match outcome predictions
+
+🔗 [View Repository](https://github.com/ishaands12/Football-Prediction-Model)
+
+---
+
+### 🏥 Disease Detection Project
+ML-powered disease detection system analyzing medical data to assist in early diagnosis.
+
+**Tech Stack**: Python, Machine Learning, Data Analysis
+**Key Features**:
+- Medical data analysis
+- Predictive modeling
+- Early detection algorithms
+
+🔗 [View Repository](https://github.com/ishaands12/Disease-Detection-Project)
+
+---
+
+### 🎮 Match Maker Path
+Interactive path-finding application built with TypeScript.
+
+**Tech Stack**: TypeScript, Algorithms
+**Key Features**:
+- Algorithm visualization
+- Interactive UI
+- Path optimization
+
+🔗 [View Repository](https://github.com/ishaands12/match-maker-path)
+
+---
+
+## 🎯 What I Do
+<div align="center">
+
+| Area | Skills & Deliverables |
+| ------ | ---------------------- |
+| **Machine Learning** | Classification, Regression, Predictive Modeling, Model Deployment |
+| **Business Intelligence** | Power BI Dashboards, Tableau Visualizations, KPI Tracking |
+| **Data Analytics** | EDA, Statistical Analysis, A/B Testing, Performance Metrics |
+| **Consulting** | Business Strategy, Data-Driven Decision Making, ROI Optimization |
+| **Tools & Tech** | Python, SQL, Jupyter, scikit-learn, Power BI, Tableau |
+
+</div>
+
+---
+
+## 🌱 Current Focus
+- 🤖 **Building AI Agents** - Developing intelligent automation solutions
+- 📈 **Scaling BIz Data Consulting** - Growing client base and service offerings
+- 🎓 **Academic Excellence** - Pursuing UGDSAI at Masters' Union (2029)
+- 📊 **Advanced Analytics** - Implementing cutting-edge ML techniques for clients
+- 💡 **Innovation** - Exploring new ways to deliver business value through data
+
+---
+
+## 🏆 Achievements & Impact
+- ✅ **10+ Successful Client Deliveries**
+- 📈 **7-10% Average Performance Improvement**
+- 🎓 **8.56 CGPA** at BITS Pilani
+- 🚀 **Founded** BIz Data Consulting
+- 💼 **Real-world ML** implementations
+
+---
+
+## 📫 Let's Connect!
+<div align="center">
+
+**Open to collaborations, consulting opportunities, and interesting data challenges!**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-3B88C3?style=for-the-badge)](https://ishaands.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/bansalishaan/)
+[![Email](https://img.shields.io/badge/📧_Email-ishaan.ds12@gmail.com-D14836?style=for-the-badge)](mailto:ishaan.ds12@gmail.com)
+
+<br>
+
+---
 
 ![Snake animation](https://raw.githubusercontent.com/ishaands12/ishaands12/output/snake.svg)
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=ishaands12&color=3B88C3&style=for-the-badge&label=Profile+Views)
 
----
-
-<div align="center">
-
-**Open for high-impact AI/Data collaborations.**  
-[**Let's Build Something Intelligent 🚀**](https://www.linkedin.com/in/bansalishaan/)
+**Thanks for visiting! Let's turn data into impact together 🚀**
 
 </div>
