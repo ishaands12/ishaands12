@@ -18,7 +18,7 @@
 <td width="50%">
 
 ### 🎓 Education
-- **Masters' Union** - UGDSAI (2029)
+- **Masters' Union** - UGP in Data Science & AI (2029)
 - **BITS Pilani** - Software Development Diploma Graduate (CGPA 8.56/10)
 
 ### 🚀 Professional
