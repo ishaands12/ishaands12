@@ -19,7 +19,7 @@
 
 ### 🎓 Education
 - **Masters' Union** - UGDSAI (2029)
-- **BITS Pilani** - B.E. Graduate (CGPA 8.56/10)
+- **BITS Pilani** - Software Development Diploma Graduate (CGPA 8.56/10)
 
 ### 🚀 Professional
 - **Founder** @ BIz Data Consulting
