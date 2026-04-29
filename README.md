@@ -19,7 +19,7 @@
 
 ### 🎓 Education
 - **Masters' Union** - UGP in Data Science & AI (2029)
-- **BITS Pilani** - Software Development Diploma Graduate (CGPA 8.56/10)
+- **BITS Pilani** - Software Development Diploma Graduate (CGPA 8.20/10)
 
 ### 🚀 Professional
 - **Founder** @ BIz Data Consulting
@@ -135,7 +135,7 @@ Advanced ML model for predicting match outcomes using historical data and statis
 ## 🏆 Achievements & Impact
 - ✅ **10+ Successful Client Deliveries**
 - 📈 **7-10% Average Performance Improvement** for business partners.
-- 🎓 **8.56 CGPA** at BITS Pilani.
+- 🎓 **8.20 CGPA** at BITS Pilani.
 - 🚀 **Founded** BIz Data Consulting.
 
 ---
